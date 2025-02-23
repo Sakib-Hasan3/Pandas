@@ -1,6 +1,5 @@
 # Pandas 
 
-
 Pandas is a powerful open-source Python library for data analysis and manipulation. Whether you're a beginner or looking to sharpen your data skills, this guide will help you get started with Pandas.  
 
 ---
